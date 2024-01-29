@@ -90,6 +90,7 @@ header .navbar i{font-size: 10px; transform: rotate(180deg);}
 header .fa-bars {display: none;}
 header .navbar-mobile {display: none;}
 header .navbar-mobile ul {display: none;}
+header {box-shadow: 0px 2px 10px rgb(177, 177, 177);}
 
 @media (max-width: 1350px) {
     header .navbar ul {column-gap: 15px;}
