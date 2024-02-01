@@ -301,6 +301,14 @@ main {padding-top: 102px;}
 
 .stay-conected-section img {width: 100%;  object-fit: cover;} 
 
+@media (max-width: 500px) {
+
+
+    .stay-conected-section .inputs { width: 100%; flex-direction: column; row-gap: 10px;}
+
+    .stay-conected-section {height: 35vh;}
+}
+
 /* stay-connected */
 
 /* footer */
