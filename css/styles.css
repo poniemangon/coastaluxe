@@ -141,7 +141,11 @@ main {padding-top: 102px;}
 
 .carousel .slick-slide {padding:0 10px;}
 
-.carousel i {color: var(--gold); font-size: 10px;}
+.carousel .fa-arrow-right {color: var(--gold); font-size: 10px;}
+
+.slick-prev:before{ font-family: 'FontAwesome'; content:"\f053" ; color: var(--grey);}
+
+.slick-next:before{ font-family: 'FontAwesome'; content:"\f054" ; color: var(--grey);}
 
 
 
