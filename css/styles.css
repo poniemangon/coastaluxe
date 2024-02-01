@@ -249,7 +249,7 @@ main {padding-top: 102px;}
 
 .carousel-featured-section {padding-bottom: 40px;}
 
-.carousel-featured-section .title h2 {text-align: center; padding: 40px 0; font-size: 35px;}
+.carousel-featured-section .title h2 {text-align: center; padding: 40px 0; font-size: 35px; word-break: break-word;}
 
 .dots {margin-top: 10px;}
 
